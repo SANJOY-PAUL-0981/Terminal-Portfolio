@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const term = require('terminal-kit').terminal;
 console.log(`⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ⢀⡤⠚⣷⠀⠀⣀⣤⠀⠀⠀⠀⠀⠀⠀
 ⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⢀⡞⣟⢀⡴⠋⠀⠀⣿⠖⠋⢀⡏⠀⠀⠀⡀⡀⠀⠀
@@ -19,7 +20,7 @@ console.log(`⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ⢀⡤⠚⣷⠀⠀⣀�
 ⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠁⠀⠀⠸⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀`,)
 
 function about(){
-    term('\n\n');
+    
     term.bold.cyan('Hello World welcome to my portfolio 👨‍💻\n\n\n');
     term.bold('😺 Name: ').brightMagenta('Sanjoy Paul\n');
     term.bold('❓ About: ').cyan('Just a beginner developer, Interested in building new things\n');
