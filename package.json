@@ -1,8 +1,11 @@
 {
-  "name": "sanjoyxp",
+  "name": "sanjoyxyz",
   "version": "1.0.0",
   "description": "This is a Terminal Portfolio made by me using JavaScript",
   "main": "index.js",
+  "bin": {
+    "sanjoyxyz": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
