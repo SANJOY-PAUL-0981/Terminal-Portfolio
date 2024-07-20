@@ -36,6 +36,7 @@ npm login
 npm publish
 ```
 (make sure to change the name in package.json before publishing)
+(node latest version needed in ubuntu or linux)
 
 ### LICENSE
 Distributed under the MIT License .
