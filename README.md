@@ -1,5 +1,5 @@
 
-# Neofetch Type CLI Portfolio
+# Terminal Portfolio
 
 This is a terminal portfolio made with vanilla JavaScript and the used packages are termina-kit, and figlet.
 
