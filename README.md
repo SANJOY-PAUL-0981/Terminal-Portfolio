@@ -14,7 +14,7 @@ npx sanjoyxyz
 ```
 ### Local installation
 ```bash
-git clone https://github.com/SANJOY-PAUL-0981/Terminal-Portfolio.git
+git clone https://github.com/HARAJIT05/Terminal-Portfolio.git
 ```
 ```bash
 cd Terminal-Portfolio
