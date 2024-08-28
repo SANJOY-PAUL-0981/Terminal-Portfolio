@@ -42,3 +42,4 @@ npm publish
 Distributed under the MIT License .
 ### Authors
 * **Sanjoy Paul**
+* **Harajit Das**
