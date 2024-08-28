@@ -10,7 +10,7 @@ This is a terminal portfolio made with vanilla JavaScript and the used packages 
 
 ## To Run This
 ```bash
-npx sanjoyxyz
+npx kazuha
 ```
 ### Local installation
 ```bash
