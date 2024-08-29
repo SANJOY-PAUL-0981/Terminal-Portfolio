@@ -1,18 +1,18 @@
-
 # Terminal Portfolio
 
-This is a terminal portfolio made with vanilla JavaScript and the used packages are termina-kit, and figlet.
+This is a terminal portfolio made with vanilla JavaScript, utilizing the packages Terminal-kit and Figlet.
 
-## Used Packages :
+## Used Packages:
 
-* *Terminal-kit*
-* *Figlet*
+- **Terminal-kit**
+- **Figlet**
 
 ## To Run This
 ```bash
 npx kazuha
 ```
-### Local installation
+
+### Local Installation
 ```bash
 git clone https://github.com/HARAJIT05/Terminal-Portfolio.git
 ```
@@ -22,24 +22,30 @@ cd Terminal-Portfolio
 ```bash
 npm i
 ```
+
 ### Start
 
 ```bash
 node index.js
 ```
 
-### Publish To npm
+### Publish to npm
 ```bash
 npm login
 ```
 ```bash
 npm publish
 ```
-(make sure to change the name in package.json before publishing)
-(node latest version needed in ubuntu or linux)
+*(Make sure to change the name in `package.json` before publishing. Node latest version needed in Ubuntu or Linux.)*
 
 ### LICENSE
-Distributed under the MIT License .
+Distributed under the MIT License.
+
 ### Authors
-* **Sanjoy Paul**
-* **Harajit Das**
+- **[Sanjoy Paul](https://github.com/SANJOY-PAUL-0981)**
+- **[Harajit Das](https://github.com/HARAJIT05)**
+- **[Sulagna Mahato](https://github.com/SulagnaMahato)**
+- - **[Arpan Senapati](https://github.com/senapati5)**
+---
+
+Let me know if you would like any further adjustments!
