@@ -47,5 +47,3 @@ Distributed under the MIT License.
 - **[Sulagna Mahato](https://github.com/SulagnaMahato)**
 - **[Arpan Senapati](https://github.com/senapati5)**
 ---
-
-Let me know if you would like any further adjustments!
