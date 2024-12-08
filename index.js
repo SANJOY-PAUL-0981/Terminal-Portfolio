@@ -32,7 +32,7 @@ function about(){
 }
 
 function skills(){
-    term.bold('✒️ Languages: ').blue.bold('🟦 C ').yellow.bold('🟨 JavaScript ').brightBlue.bold('🟦 CSS ').red.bold('🟧 HTML\n');
+    term.bold('✒️ Languages: ').blue.bold('🟦 C ').yellow.bold('🟨 JavaScript ').brightBlue.bold('🟦 CSS ').red.bold('🟧 HTML').blue.bold('🟦 React\n');
     term.bold('🛠️ Tools & Frameworks: ').brightBlue.bold('🌐 VS Code ').brightRed.bold('🐙 Git & GitHub ').brightMagenta.bold('👾 Bootstraps ').blue.bold('🌐 Tailwind\n');
 }
 
