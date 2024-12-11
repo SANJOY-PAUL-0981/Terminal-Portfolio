@@ -27,7 +27,7 @@ function about(){
     term.bold('❓ About: ').cyan('Just a beginner developer, Interested in building new things\n');
     term.bold('🌐 Website: ').yellow('https://sanjoypaul.vercel.app/\n');
     term.bold('🐙 GitHub: ').blue('https://github.com/SANJOY-PAUL-0981\n');
-    term.bold('🐥 Twitter: ').brightCyan('https://x.com/SanjoyPaul0981\n');
+    term.bold('🐥 Twitter: ').brightCyan('https://x.com/Sanj0yX\n');
     term.bold('📧 Email: ').brightRed('paulsanjoy2923@gmail.com\n');
 }
 
